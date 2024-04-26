@@ -45,7 +45,7 @@ const App = () => {
         />
         <button onClick={handleCheck}>Check If Available</button>
       </div>
-      <div>
+      <div className="w-full">
         <label>ID:</label>
         <input
           type="number"
